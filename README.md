@@ -3,11 +3,9 @@
 native-dns -- A replacement DNS stack for node.js
 =================================================
 
-# PROJECT LONGER MAINTAINED BY ME (tutosfaciles48)
+This is a fork of a fork of a native JavaScript DNS library.
 
-Visit [this issue](https://github.com/tjfontaine/node-dns/issues/111) to suggest or vote on a fork!
-
-Link to winning fork will be placed here.
+Trying to get it to work on the browser side!
 
 # (Below follows original README)
 
